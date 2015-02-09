@@ -1,4 +1,9 @@
 <?php
+
+/*
+* Banco de dados 
+*
+*/
 $engine = 'mysql';
 $host = "mysql.plataformasigma.com.br";
 $user = "appprofessor";
