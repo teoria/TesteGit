@@ -1,4 +1,9 @@
 <?php
+
+/*
+* Banco de dados 
+*
+*/
 $engine = 'mysql';
 $host = "mysql.plataformasigma.com.br";
 $user = "appprofessor";
@@ -6,7 +11,7 @@ $pass = "abc431faba";
 $database = "barauna_sigma";
 
  
- 
+  
 /**
 * Caminhos do Sistema
 *
