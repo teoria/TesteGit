@@ -6,13 +6,7 @@ $pass = "abc431faba";
 $database = "barauna_sigma";
 
  
-
-// $engine = 'mysql'; 
-// $host = '192.168.1.240';
-// $database = 'sigmatest';
-// $user = 'admin';
-// $pass = '';
-
+ 
 /**
 * Caminhos do Sistema
 *
