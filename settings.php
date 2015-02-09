@@ -6,7 +6,7 @@ $pass = "abc431faba";
 $database = "barauna_sigma";
 
  
- 
+  
 /**
 * Caminhos do Sistema
 *
